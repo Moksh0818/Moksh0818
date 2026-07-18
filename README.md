@@ -1,6 +1,6 @@
 Hi 👋 I'm Moksh Sharma
 
-Azure Data Engineer
+Aspiring Azure Data Engineer
 
 • Backend Support Engineer at Hitachi Payments
 • Learning Azure Data Engineering
