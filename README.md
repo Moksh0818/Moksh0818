@@ -17,3 +17,5 @@ Featured Projects
 🚀 Uber – Azure Real-Time Data Engineering Pipeline
 
 📫 LinkedIn
+
+https://www.linkedin.com/in/moksh-sharma-773163383
