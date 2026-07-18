@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋 I'm Moksh Sharma
 
-<!--
-**Moksh0818/Moksh0818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Azure Data Engineer
 
-Here are some ideas to get you started:
+• Backend Support Engineer at Hitachi Payments
+• Learning Azure Data Engineering
+• Python | SQL | PySpark
+• Azure Data Factory
+• Azure Databricks
+• Azure Event Hub
+• Azure Data Lake Storage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured Projects
+
+🚀 Adventure Works – Azure Batch Data Engineering Pipeline
+
+🚀 Uber – Azure Real-Time Data Engineering Pipeline
+
+📫 LinkedIn
